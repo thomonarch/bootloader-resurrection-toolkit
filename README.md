@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bootloader Resurrection Toolkit
 
 This project is a collection of notes, fixes, and recovery steps based on a real situation where my Windows bootloader and shutdown process broke after removing Linux.
@@ -10,3 +11,7 @@ This project is a collection of notes, fixes, and recovery steps based on a real
 ## Purpose
 
 This repo exists to help anyone who ends up in the same mess I did. The goal is to build a simple, practical toolkit for fixing broken EFI partitions, BCD issues, and shutdown loops on Windows.
+=======
+# bootloader-resurrection-toolkit
+This is my second GitHub repo. Read the story to find out why i made this.
+>>>>>>> 637b41ac763752db811334452b93268cd635af91
