@@ -1,8 +1,4 @@
 # Windows Shutdown Loop Fix
-
-This guide will explain how to fix the issue where Windows refuses to shut down and returns to the login screen.
-# Windows Shutdown Loop Fix
-
 This guide explains how to fix the issue where Windows refuses to shut down properly. Common symptoms include:
 
 - You click Shut Down, the screen goes black, and then the system jumps back to the lock screen.
