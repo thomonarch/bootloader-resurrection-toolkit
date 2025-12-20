@@ -1,9 +1,4 @@
 # BCD Repair Guide
-
-This guide will cover how to recreate or repair the Windows BCD store.
-# BCD Repair Guide
-# BCD Repair Guide
-
 This guide explains how to repair or recreate the Windows Boot Configuration Data (BCD) when the system fails to boot or shows errors like:
 
 - "The boot configuration data for your PC is missing or contains errors."
