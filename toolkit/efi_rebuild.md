@@ -1,8 +1,4 @@
 # EFI Rebuild Guide
-
-This guide will explain how to rebuild the EFI partition and restore the Windows bootloader.
-# EFI Rebuild Guide
-
 This guide walks through rebuilding the EFI System Partition (ESP) and restoring the Windows bootloader on a UEFI system. Use this when Windows won’t boot after removing Linux, wiping partitions, or otherwise breaking the EFI setup.
 
 > This assumes a UEFI + GPT system and Windows 10/11.
