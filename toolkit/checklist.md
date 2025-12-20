@@ -1,8 +1,4 @@
 # Bootloader Recovery Checklist
-
-A quick checklist for diagnosing and fixing Windows bootloader issues.
-# Bootloader Recovery Checklist
-
 A quick, practical checklist for diagnosing and fixing Windows bootloader issues after removing Linux, modifying partitions, or encountering EFI/BCD corruption. This assumes a UEFI + GPT Windows 10/11 system.
 
 ---
